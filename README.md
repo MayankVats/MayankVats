@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
+- 🔭 I’m currently working on Awesome Projects.
 - 🌱 I’m currently learning to be an efficient problem solver.
 
 <!--
