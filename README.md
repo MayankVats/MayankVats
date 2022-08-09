@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Awesome Projects.
-- 🌱 I’m currently learning to be an efficient problem solver.
+- 🌱 I’m learning to be an efficient problem solver.
 
 <!--
 - 👯 I’m looking to collaborate on ...
