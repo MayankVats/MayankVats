@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on Awesome Projects.
 - 🌱 I’m learning to be an efficient problem solver.
 
+[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayankVats)](https://github.com/MayankVats/github-readme-stats)
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
